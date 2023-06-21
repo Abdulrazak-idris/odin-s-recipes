@@ -5,7 +5,7 @@ body {
     background-color:rgb(218, 191, 156)
 }
 
-h1 {
+.front-page {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,6 +16,8 @@ h1 {
     height: 50px;
 }
 
-li {
-    text-decoration: none;
+.link {
+    font-size: larger;
+    color: black;
+    width: fit-content;
 }
