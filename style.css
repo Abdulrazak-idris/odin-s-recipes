@@ -16,8 +16,16 @@ body {
     height: 50px;
 }
 
-.link {
-    font-size: larger;
-    color: black;
-    width: fit-content;
+img {
+    border: 1px solid black;
+    min-height: 200px;
+    width: 400px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    list-style-type: none;
 }
